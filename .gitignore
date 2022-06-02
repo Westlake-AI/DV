@@ -1,0 +1,9 @@
+log_CD14
+save/
+manifolds/__pycache__/
+load_data/__pycache__/
+load_disF/__pycache__/
+load_simF/__pycache__/
+Loss/__pycache__/
+Similarity/__pycache__/
+data/uc_*
