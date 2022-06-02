@@ -1,5 +1,5 @@
-# Deep Visualization (DV)
-=========================================
+Deep Visualization (DV)
+=============
 This package contains the code for the paper ''Structure-Preserving and Batch-Correcting Visualization Using Deep Manifold Transformation for Single-cell RNA-Seq Profiles''.
 
 The model can be run by executing main.py in the code directory.
