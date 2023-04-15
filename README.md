@@ -1,8 +1,6 @@
-Deep Visualization (DV)
+Structure-preserving visualization for single-cell RNA-Seq profiles using deep manifold transformation with batch-correction
 =============
-This package contains the code for the paper ''Structure-Preserving and Batch-Correcting Visualization Using Deep Manifold Transformation for Single-cell RNA-Seq Profiles''.
-
-The model can be run by executing main.py in the code directory.
+ python main.py
 
 
 Requirements
