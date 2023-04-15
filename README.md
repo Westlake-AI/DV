@@ -1,6 +1,6 @@
 Structure-preserving visualization for single-cell RNA-Seq profiles using deep manifold transformation with batch-correction
 =============
-![image]
+![image](https://github.com/Westlake-AI/DV/blob/master/Framework.png)
  python main.py
 
 
