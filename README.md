@@ -11,7 +11,8 @@ Dimensionality reduction and visualization play an important role in biological 
 
 Requirements
 =============
-You'll need to install the following packages in order to run the codes.
+You'll need to install the following packages in order to run the codes.  
+
 anndata==0.7.6  
 louvain==0.7.0  
 pandas==1.2.0  
