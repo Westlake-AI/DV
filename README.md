@@ -30,8 +30,6 @@ Citation
 =============
 Xu, Y., Zang, Z., Xia, J. et al. Structure-preserving visualization for single-cell RNA-Seq profiles using deep manifold transformation with batch-correction. Commun Biol 6, 369 (2023).
 
-Contact
-=============
 If you have any problem about this package, please create an Issue or send us an Email at:
 
 * sky.yongjie.xu@hotmail.com
